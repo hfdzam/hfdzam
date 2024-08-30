@@ -7,13 +7,16 @@ I'm a passionate **Data Scientist**, **Machine Learning Enthusiast**, and **Data
 - **Machine Learning**: Develop, train, and deploy machine learning models for various applications, including classification, regression, and clustering. My expertise includes working with **Scikit-learn**, **TensorFlow**, and **Pandas**.
 - **Data Engineering**: Build and manage data pipelines using **Docker**, **Apache Airflow**, and **PostgreSQL**. My projects often involve data extraction, transformation, and loading (ETL) processes.
 - **Project Management**: Lead and coordinate data projects, ensuring timely delivery and effective collaboration with cross-functional teams.
+- **Web Applications**: Develop interactive web applications for data visualization and analysis using **Streamlit**.
 
 ## 🛠️ Tools & Technologies
-- **Programming Languages**: Python, SQL, C++
-- **Data Visualization**: Tableau, Looker Studio, Kibana
-- **Libraries & Frameworks**: TensorFlow, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
-- **Big Data & Cloud**: AWS (S3, Lambda, Glue, Kinesis), Google BigQuery, Elasticsearch
-- **Data Engineering**: Docker, Apache Airflow, Apache Kafka, PostgreSQL
+- **Programming Languages:** Python, SQL, C++
+- **Data Visualization:** Tableau, Looker Studio, Kibana
+- **Libraries & Frameworks:** TensorFlow, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
+- **Big Data & Cloud:** AWS (S3, Lambda, Glue, Kinesis), Google BigQuery, Elasticsearch
+- **Data Engineering:** Docker, Apache Airflow, Apache Kafka, PostgreSQL
+- **Web Applications:** Streamlit
+- **Model Deployment:** Hugging Face
 
 ## 📈 Recent Projects
 - **[Sales Growth Strategy Analysis](https://github.com/hfdzam/Sales-Growth-Strategy-Based-on-Brand-Storage-and-Color-Preference-Data-Analysis)**: Analyzed smartphone sales data to uncover market trends related to brand popularity, storage capacities, and color preferences. The goal was to optimize sales strategies and enhance customer satisfaction.
