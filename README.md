@@ -19,7 +19,7 @@ I'm a passionate **Data Scientist**, **Machine Learning Enthusiast**, and **Data
 - **Model Deployment:** Hugging Face
 
 ## 📈 Recent Projects
-- **[Sales Growth Strategy Analysis](https://github.com/hfdzam/Sales-Growth-Strategy-Based-on-Brand-Storage-and-Color-Preference-Data-Analysis)**: Analyzed smartphone sales data to uncover market trends related to brand popularity, storage capacities, and color preferences. The goal was to optimize sales strategies and enhance customer satisfaction.
+- **[Smartphone Sales Growth Strategy Analysis](https://github.com/hfdzam/Sales-Growth-Strategy-Based-on-Brand-Storage-and-Color-Preference-Data-Analysis)**: Analyzed smartphone sales data to uncover market trends related to brand popularity, storage capacities, and color preferences. The goal was to optimize sales strategies and enhance customer satisfaction.
 - **[Customer Payment Default Prediction](https://github.com/hfdzam/Classification-Model-for-Customer-Payment-Default-Prediction)**: Developed a machine learning model to predict customer payment defaults, focusing on improving recall to minimize false negatives.
 - **[Web Scraping and Analysis of Tokopedia](https://github.com/hfdzam/Web-Scraping-and-Analysis-of-Tokopedia)**: Performed web scraping on the Tokopedia website to analyze and extract insights from product listings.
 - **[Customer Satisfaction Analysis in Clothing Business](https://github.com/hfdzam/FashionRetailSales)**: Analyzed customer satisfaction over 11 months, identifying key factors contributing to dissatisfaction. The project provided actionable strategies to enhance satisfaction and improve overall business performance.
